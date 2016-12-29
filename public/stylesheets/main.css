@@ -1,0 +1,99 @@
+.header-nav {
+    margin-bottom: 0;
+}
+
+.bigger-font {
+    font-size: 115%;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.tplay {
+    background: url("../img/tplay.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.visualk {
+    background: url("../img/visualk.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.caidagram {
+    background: url("../img/caidagram.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.hydra {
+    background: url("../img/hydra.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.historical-bgplay {
+    background: url("../img/historical-bgplay.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.bgplayjs {
+    background: url("../img/bgplayjs.png") no-repeat 0 0;
+    background-size: 100%;
+    background-position: center;
+}
+
+.white-pill {
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-right: 2px;
+    line-height: 18px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #ffffff;
+    background-color: #0088cc;
+
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.accordion-toggle > a:hover span {
+
+}
+
+.accordion-heading {
+    cursor: pointer;
+}
+
+.white-background {
+    background: rgba(255, 255, 255, 0.90);
+}
+
+.more-padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.netviz-accordion {
+    border: 1px solid #08C;
+}
+
+.accordion-margin {
+    margin-bottom: 10px;
+}
+
+.accordion-heading {
+    background: rgba(255, 255, 255, 0.30);
+}
+
+.accordion-heading:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
